@@ -1,4 +1,4 @@
-# 🏨 MoeTours
+# MoeTours
 
 This is a complete **Hotel Booking System** built with the **MERN Stack** – MongoDB, Express.js, React.js, and Node.js. The app includes a **fully featured Admin Dashboard**, **JWT-based authentication**, and **Postman-tested APIs** for managing hotels and reservations. The frontend is built with **React**, **Context API**, **React Calendar**, and custom components.
 
@@ -37,10 +37,10 @@ This is a complete **Hotel Booking System** built with the **MERN Stack** – Mo
 
 ### Admin Panel (Backend)
 
-![Admin Login]![image](https://github.com/user-attachments/assets/0ece160f-2069-4e22-b0be-8db720381d6b)
-![CRUD in Postman]![WhatsApp Image 2025-04-29 at 20 25 22_8c0c3b93](https://github.com/user-attachments/assets/bf2f2311-7419-40f9-90ba-527ea2e909dc)
-![Admin Pages]![image](https://github.com/user-attachments/assets/6766673b-7d9e-42d9-9429-ca10ecba42ef)
-![MongoDB Models]![image](https://github.com/user-attachments/assets/59c69a9c-b556-4852-84e3-84934bb44c06)
+# [Admin Login]![image](https://github.com/user-attachments/assets/0ece160f-2069-4e22-b0be-8db720381d6b)
+### [CRUD in Postman]![WhatsApp Image 2025-04-29 at 20 25 22_8c0c3b93](https://github.com/user-attachments/assets/bf2f2311-7419-40f9-90ba-527ea2e909dc)
+#### ![Admin Pages]![image](https://github.com/user-attachments/assets/6766673b-7d9e-42d9-9429-ca10ecba42ef)
+## ![MongoDB Models]![image](https://github.com/user-attachments/assets/59c69a9c-b556-4852-84e3-84934bb44c06)
 
 
 ---
