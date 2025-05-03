@@ -17,7 +17,6 @@ This is a complete **Hotel Booking System** built with the **MERN Stack** – Mo
 - React app with Context API
 - React Calendar-based booking system
 - Custom hooks for data fetching
-- Mobile-responsive UI with CSS
 - Search filters, sliders, and hotel lists
 
 ---
@@ -38,8 +37,11 @@ This is a complete **Hotel Booking System** built with the **MERN Stack** – Mo
 ### Admin Panel (Backend)
 
 ### [Admin Login]![image](https://github.com/user-attachments/assets/0ece160f-2069-4e22-b0be-8db720381d6b)
+
 ### [CRUD in Postman]![WhatsApp Image 2025-04-29 at 20 25 22_8c0c3b93](https://github.com/user-attachments/assets/bf2f2311-7419-40f9-90ba-527ea2e909dc)
+
 ### [Admin Pages]![image](https://github.com/user-attachments/assets/6766673b-7d9e-42d9-9429-ca10ecba42ef)
+
 ### [MongoDB Models]![image](https://github.com/user-attachments/assets/59c69a9c-b556-4852-84e3-84934bb44c06)
 
 
@@ -48,10 +50,15 @@ This is a complete **Hotel Booking System** built with the **MERN Stack** – Mo
 ### Frontend (User Booking System)
 
 ### [Home Page]![image](https://github.com/user-attachments/assets/ba6a12d3-01ed-42fa-8bf5-6653541e8f79)
+
 ### [Hotel Page]![image](https://github.com/user-attachments/assets/1b3d8945-d2c8-41d2-b4b6-3ba76cdc72ee)
+
 ### [Reservation Page]![image](https://github.com/user-attachments/assets/d53ef494-be13-4aad-8578-e60f005fcc8b)
+
 ### [All Hotels]![image](https://github.com/user-attachments/assets/3b342394-7bac-4e1f-9bcb-91e30095abea)
+
 ### [Footer]![image](https://github.com/user-attachments/assets/56900605-d075-4e9f-94bb-4d64e6fc67f1)
+
 
 ## API Endpoints (CRUD)
 
